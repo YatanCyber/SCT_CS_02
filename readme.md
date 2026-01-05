@@ -23,8 +23,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/image-encryption-tool.git
-cd image-encryption-tool
+git clone https://github.com/YatanCyber/SCT_CS_02/tree/main
 
 
 Install required packages:
